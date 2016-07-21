@@ -16,6 +16,7 @@ using Microsoft.Practices.ServiceLocation;
 
 namespace UnityTest
 {
+	// Comment added to test GitHub
 	class Program
 	{
 		static void Main(string[] args)
